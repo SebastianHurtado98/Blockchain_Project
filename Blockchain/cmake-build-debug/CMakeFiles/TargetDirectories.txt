@@ -1,0 +1,3 @@
+C:/Users/Sebastian/Desktop/ProyectoPOOII/cmake-build-debug/CMakeFiles/ProyectoPOOII.dir
+C:/Users/Sebastian/Desktop/ProyectoPOOII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sebastian/Desktop/ProyectoPOOII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
