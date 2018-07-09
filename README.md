@@ -17,7 +17,11 @@ Capacidades:
     REALIZAR APUESTA: realiza una transacción
     VER BALANCE: revisa la cadena para hacer un balance de las transacciones (criptomoneda)
     GUARDAR ARCHIVO: traslada la cadena a un archivo .txt
-    VERIFICAR CADENA (COMING SOON): verifica si el archivo anterior ha sido alterado (validación textual)
+    VERIFICAR CADENA (COMING SOON): verifica si el archivo anterior ha sido alterado (validación textual).
+    Verificar cadena mediante archivo podría ser útil para verificar cualquier tipo de archivo. Por ejemplo, un csv basado
+    en blockchain, ya que podrías leer los campos, crear un bloque, hacer un hash del bloque y ver si este hash es igual al campo 
+    que contiene el previous_hash en el siguiente bloque. De no ser iguales, la información en esos bloques ha sido comprometida.
+    
     
 Métodos - Capacidades:
 
